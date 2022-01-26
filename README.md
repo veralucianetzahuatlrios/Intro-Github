@@ -7,3 +7,7 @@
  Sesion 1
 
 ### Insertaremos una imagen 
+
+![Capitan](IMG_1537.HEIC)
+
+![Capitan](capitan.png)
